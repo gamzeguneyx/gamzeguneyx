@@ -2,4 +2,4 @@
 
 - Here, you can find my Python implementations of algorithms and many (most probably beginner-friendly) projects.
 
-- I’m interested in Data Science (Pandas, Numpy), Machine Learning (TensorFlow)
+- I’m kinda interested in Data Science (Pandas, Numpy), Machine Learning (TensorFlow).
